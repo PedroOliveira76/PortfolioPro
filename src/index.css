@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+*{
+  box-sizing: border-box;
+}
+@media (max-width: 440px) {
+  .footer {
+    @apply flex-col overflow-y-auto h-32
+  
+  }
+  
+
+
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "nome": "Dashboard de Vendas",
+    "descricao": "Painel de controle para visualização de métricas de vendas.",
+    "tecnologias": ["React", "TailwindCSS", "Chart.js"],
+    "imagem": "/imgs/dashboard.png",
+    "linkDemo": "https://demo-dashboard.com",
+    "linkCodigo": "https://github.com/seuusuario/dashboard"
+  },
+  {
+    "id": 2,
+    "nome": "API de Tarefas",
+    "descricao": "API RESTful para gerenciamento de tarefas com autenticação.",
+    "tecnologias": ["Node.js", "NestJS", "MySQL"],
+    "imagem": "/imgs/api.png",
+    "linkDemo": "https://api-demo.com",
+    "linkCodigo": "https://github.com/seuusuario/api-tarefas"
+  },
+  {
+    "id": 3,
+    "nome": "App de Clima",
+    "descricao": "Aplicativo que exibe o clima em tempo real com base na localização do usuário.",
+    "tecnologias": ["React Native", "Expo", "OpenWeather API"],
+    "imagem": "/imgs/clima.png",
+    "linkDemo": "https://appclima-demo.com",
+    "linkCodigo": "https://github.com/seuusuario/app-clima"
+  },
+  {
+    "id": 4,
+    "nome": "Scrapp Amazon",
+    "descricao":"Teste",
+    "tecnologias": ["React Native", "Expo", "OpenWeather API"],
+    "imagem": "/imgs/clima.png",
+    "linkDemo": "https://appclima-demo.com",
+    "linkCodigo": "https://github.com/seuusuario/app-clima"
+    
+  },
+  {
+    "id": 5,
+    "nome": "Ecommerce de games",
+    "descricao":"Site para compra de jogos online",
+    "tecnologias": ["React", "TailwindCSS", "FreeToGame API"],
+    "imagem": "",
+    "linkDemo": "",
+    "linkCodigo": ""
+    
+  },
+  {
+    "id": 6,
+    "nome": "Relatório",
+    "descricao":"Teste",
+    "tecnologias": ["React Native", "Expo", "OpenWeather API"],
+    "imagem": "/imgs/clima.png",
+    "linkDemo": "https://appclima-demo.com",
+    "linkCodigo": "https://github.com/seuusuario/app-clima"
+    
+  }
+]
