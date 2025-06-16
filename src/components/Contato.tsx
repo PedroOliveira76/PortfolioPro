@@ -13,7 +13,7 @@ export function Contato() {
       >
         {/* Desativa captcha e redireciona (opcional) */}
         <input type="hidden" name="_captcha" value="false" />
-        <input type="hidden" name="_next" value="http://localhost:5173/obrigado" />
+        <input type="hidden" name="_next" value="https://portfolio-pro-bice.vercel.app/obrigado" />
 
         <div>
           <label htmlFor="name" className="block text-sm font-medium text-gray-700">
