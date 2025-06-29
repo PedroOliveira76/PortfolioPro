@@ -13,7 +13,7 @@ export function Projects() {
         <div className="fixed inset-0 z-50 bg-black bg-opacity-80 flex items-center justify-center">
           {/* Botão "X" */}
           <button
-            className="absolute top-4 right-4 text-white text-3xl font-bold hover:text-red-500 transition cursor-pointer"
+            className="absolute top-4 right-4 text-green-500 text-3xl font-bold hover:text-red-500 transition cursor-pointer"
             onClick={() => setImagemModal(null)}
           >
             &times;
@@ -42,7 +42,7 @@ export function Projects() {
           >
             {/* Card do projeto */}
             <div
-              className="bg-white border rounded-lg shadow p-4 cursor-pointer transition-all hover:shadow-xl hover:scale-95  lg:h-24 "
+              className=" bg-white border rounded-lg shadow p-4 cursor-pointer transition-all hover:shadow-xl hover:scale-95  lg:h-24 "
 
             >
               <h3 className="font-semibold text-lg">{projeto.nome}</h3>

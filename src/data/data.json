@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "nome": "Dashboard de Vendas",
-    "descricao": "Painel de controle para visualização de métricas de vendas.",
+    "nome": "Relatório de Vendas",
+    "descricao": "Painel para visualização de métricas de vendas, vinculada a um banco de dados. ",
     "tecnologias": ["React", "TailwindCSS", "Chart.js"],
-    "imagem": "/imgs/dashboard.png",
-    "linkDemo": "https://demo-dashboard.com",
-    "linkCodigo": "https://github.com/seuusuario/dashboard"
+    "imagem": "/site1.png",
+    "linkDemo": "https://relatorio-vendas.vercel.app/dashboard",
+    "linkCodigo": "https://github.com/PedroOliveira76/RelatorioVendas"
   },
   {
     "id": 2,
@@ -41,7 +41,7 @@
     "nome": "Ecommerce de games",
     "descricao":"Site para compra de jogos online",
     "tecnologias": ["React", "TailwindCSS", "FreeToGame API"],
-    "imagem": "",
+    "imagem": "/site5.png",
     "linkDemo": "",
     "linkCodigo": ""
     
